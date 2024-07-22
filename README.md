@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Cananchai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Cananchai/Cananchai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +12,7 @@ Newbie Dev :)
 -------------
 
 * 🌍  I'm based in BKK
-* 🧠  I'm learning กำลังใจในการเรียนภาษา คอมพิวเตอร์
+* 🧠  I'm learning computer 
 * 🤝  I'm open to collaborating on สนใจงานตำแหน่งอะไร
 * ⚡  นำเสนอตัวเอง
 
