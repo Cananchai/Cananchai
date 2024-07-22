@@ -12,7 +12,7 @@ Newbie Dev :)
 -------------
 
 * 🌍  I'm based in BKK
-* 🧠  I'm learning computer 
+* 🧠  I'm learning computer engineer (CPE)
 * 🤝  I'm open to collaborating on สนใจงานตำแหน่งอะไร
 * ⚡  นำเสนอตัวเอง
 
